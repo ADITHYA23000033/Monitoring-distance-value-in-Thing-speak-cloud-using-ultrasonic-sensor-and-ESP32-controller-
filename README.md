@@ -154,7 +154,7 @@ void loop()
 }
 ~~~
 # CIRCUIT DIAGRAM:
-![image](https://github.com/user-attachments/assets/ff59c231-fad9-4c20-befb-e20af13a2bb3)
+![image](https://github.com/user-attachments/assets/838aa891-96ef-4484-a4ae-5bbed8f87b6d)
 
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/c032c6b3-3688-40db-b612-c7936143cc3a)
